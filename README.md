@@ -2,7 +2,7 @@
 
 ## Features of the Framework
 
-* Page object Model Implementation <kbd>[a label](#the-url)</kbd>
+* Page object Model Implementation <kbd>[POM](https://www.lambdatest.com/blog/page-object-model-in-selenium-python/)</kbd>
 * [Unittest](https://docs.python.org/3/library/unittest.html) Framework has been used here as Unit an unit testing framework which supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework.
 
 ### Packages that are required for the Project
